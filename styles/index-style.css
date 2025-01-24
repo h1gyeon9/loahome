@@ -1,0 +1,38 @@
+main{
+    text-align: center;
+}
+
+main img{
+    display: block;
+    width: 85%;
+    margin: 20px auto;
+}
+
+main h2{
+    margin: 16px 0;
+}
+
+main h3{
+    margin-top: 34px;
+}
+
+main li{
+    margin: 0 10px;
+}
+
+#nickname{
+    margin-top: 34px;
+    margin-bottom: 8px;
+}
+
+#server-name{
+    color: gray;
+    font-size: 18px;
+    font-weight: 400;
+    margin-top: 8px;
+}
+
+#ingame-info{
+    display: flex;
+    justify-content: center;
+}

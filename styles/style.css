@@ -45,12 +45,6 @@ header{
     text-decoration: underline;
 }
 
-main img{
-    display: block;
-    width: 85%;
-    margin: 20px auto;
-}
-
 footer p{
     text-align: center;
     font-size: 11px;
