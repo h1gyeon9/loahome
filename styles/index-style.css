@@ -5,7 +5,7 @@ main{
 main img{
     display: block;
     width: 85%;
-    margin: 20px auto;
+    margin: 20px auto 60px auto;
 }
 
 main h2{
@@ -16,8 +16,16 @@ main h3{
     margin-top: 34px;
 }
 
+main ul{
+    margin: 0;
+}
+
 main li{
-    margin: 0 10px;
+    margin: 0 18px;
+}
+
+ul p{
+    margin: 0;
 }
 
 #nickname{
@@ -35,4 +43,8 @@ main li{
 #ingame-info{
     display: flex;
     justify-content: center;
+}
+
+#bottom-p{
+    margin-bottom: 34px;
 }
