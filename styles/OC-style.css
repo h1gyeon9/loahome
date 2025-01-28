@@ -1,5 +1,58 @@
+main{
+    text-align: center;
+    font-weight: 400;
+    width: auto;
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 0 50px;
+    line-height: 200%;
+}
+
 main img{
     display: block;
-    width: 85%;
-    margin: 20px auto 60px auto;
+    width: 100%;
+    max-width: 800px;
+    margin: 10% auto;
+}
+
+hr{
+    margin: 40px 0;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 700;
+}
+
+h3{
+    font-size: 18px;
+    font-weight: 700;
+}
+
+p{
+    font-size: 15px;
+    text-align: start;
+    text-indent: 15px;
+    margin-bottom: 40px;
+}
+
+mark{
+    background-color: transparent;
+    font-weight: 700;
+    color: #0b5394
+}
+
+.basic-info-hr{
+    margin: 80px 0;
+}
+
+.basic-info{
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.one-line{
+    font-size: 16px;
+    font-weight: 400;
+    font-style: italic;
 }
