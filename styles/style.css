@@ -25,20 +25,20 @@ header{
 }
 
 #page-logo a{
-    font-size: 30px;
+    font-size: 1.875rem;
     font-weight: 900;
-    padding-left: 20px;
+    padding-left: 1.25rem;
 }
 
 #navbar{
     display: flex;
     align-items: center;
     justify-content: flex-end;
-    padding-right: 20px;
+    padding-right: 1.25rem;
 }
 
 #navbar li{
-    margin-left: 20px;
+    margin-left: 1.25rem;
 }
 
 .page-now{
@@ -47,6 +47,7 @@ header{
 
 footer p{
     text-align: center;
-    font-size: 11px;
+    font-size: 0.6875rem;
     color: gray;
+    margin-top: 3rem;
 }
