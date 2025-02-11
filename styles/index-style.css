@@ -43,4 +43,5 @@ ul p{
 .ingame-info{
     display: grid;
     grid-template-columns: 10rem 10rem;
+    row-gap: 2rem;
 }
