@@ -8,7 +8,7 @@ main{
 main img{
     display: block;
     width: 85%;
-    margin: 1rem auto 3.75rem auto;
+    margin: 1rem auto 0.8rem auto;
 }
 
 main h2{
@@ -28,20 +28,6 @@ ul p{
     margin: 0;
 }
 
-#nickname{
-    margin-top: 2rem;
-    margin-bottom: 0.5rem;
-}
-
-#server-name{
-    color: gray;
-    font-size: 1rem;
-    font-weight: 400;
-    margin: 0;
-}
-
-.ingame-info{
-    display: grid;
-    grid-template-columns: 10rem 10rem;
-    row-gap: 2rem;
+footer p{
+    margin-top: 0;
 }

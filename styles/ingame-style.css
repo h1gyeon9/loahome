@@ -1,0 +1,32 @@
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10rem 0;
+}
+
+#nickname{
+    margin-top: 2rem;
+    margin-bottom: 0.5rem;
+    display: inline;
+}
+
+#server-name{
+    color: gray;
+    font-size: 1rem;
+    font-weight: 400;
+    margin: 0;
+    display: inline;
+}
+
+
+#ingame-nickname{
+    margin-top: 0.5rem;
+}
+
+.ingame-info{
+    display: grid;
+    grid-template-columns: 10rem 10rem;
+    row-gap: 2rem;
+}
