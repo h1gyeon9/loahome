@@ -29,4 +29,9 @@ main{
     display: grid;
     grid-template-columns: 10rem 10rem;
     row-gap: 2rem;
+    margin-top: 2rem;
+}
+
+.grid-item:nth-child(1){
+    grid-column: 1/3;
 }

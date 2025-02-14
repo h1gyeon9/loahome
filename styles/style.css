@@ -87,6 +87,11 @@ header{
 .dropdown .page-now{
     color: var(--color-main-600);
     font-weight: bold;
+    text-decoration: underline;
+}
+
+.subpage-now{
+    font-weight: bold;
 }
 
 /*푸터*/
