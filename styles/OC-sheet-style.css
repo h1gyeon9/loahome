@@ -1,0 +1,20 @@
+main{
+    margin: 1rem auto 0.8rem auto;
+}
+
+main img{
+    display: block;
+    width: 85%;
+    margin: 0 auto;
+}
+
+.icon{
+    width: 0.8rem;
+    margin-right: 0.3rem;
+}
+
+main h2{
+    font-size: 16px;
+    text-align: center;
+    font-weight: normal;
+}

@@ -30,6 +30,7 @@ main{
     grid-template-columns: 10rem 10rem;
     row-gap: 2rem;
     margin-top: 2rem;
+    align-items: center;
 }
 
 .grid-item:nth-child(1){

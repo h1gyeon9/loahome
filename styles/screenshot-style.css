@@ -1,5 +1,13 @@
 main img{
     display: block;
-    width: 85%;
+    width: 100%;
+    margin: 0;
+}
+
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 3;
+    gap: 0;
     margin: 1rem auto 0.8rem auto;
 }
