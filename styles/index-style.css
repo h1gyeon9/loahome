@@ -1,3 +1,7 @@
+html{
+    --color-main-600: #0b5394;
+}
+
 main{
     display: flex;
     flex-direction: column;

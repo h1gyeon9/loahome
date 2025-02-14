@@ -39,7 +39,7 @@ p{
 mark{
     background-color: transparent;
     font-weight: 700;
-    color: #0b5394
+    color: var(--color-main-600);
 }
 
 .basic-info-hr{
