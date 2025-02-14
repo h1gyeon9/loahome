@@ -6,12 +6,14 @@ html{
     font-family: "Pretendard Variable", sans-serif;
 }
 
-ul{                                     /*ul 기본 스타일 삭제용*/
+/*기본 스타일 삭제*/
+
+ul{
     list-style: none;
     padding: 0;
 }
 
-a{                                     /*링크 기본 스타일 삭제용*/
+a{
     color: black;
     text-decoration: none;
 }
@@ -20,7 +22,7 @@ a:hover, .dropdown:hover .dropbtn{
     text-decoration: underline;
 }
 
-
+/*헤더*/
 
 header{
     display: flex;
@@ -60,9 +62,7 @@ header{
     border: none;
     outline: none;
     color: black;
-    padding: 14px 16px;
     background-color: inherit;
-    font-family: inherit;
     margin: 0;
 }
 
@@ -70,7 +70,7 @@ header{
     display: none;
     position: absolute;
     background-color: rgba(0, 0, 0, 0.01);
-    min-width: 160px;
+    min-width: 10px;
     box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
