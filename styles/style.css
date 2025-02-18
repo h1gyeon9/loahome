@@ -6,6 +6,9 @@ html{
     font-family: "Pretendard Variable", sans-serif;
     --color-main-600: #0b5394;
     --color-main-300: #24669f90;
+    --color-text-700: #363636;
+    background: rgb(243, 243, 243);
+    color: var(--color-text-700);
 }
 
 /*기본 스타일 삭제*/
@@ -16,7 +19,7 @@ ul{
 }
 
 a{
-    color: black;
+    color: var(--color-text-700);
     text-decoration: none;
 }
 
@@ -60,7 +63,7 @@ header{
     font-size: 1rem;
     border: none;
     outline: none;
-    color: black;
+    color: var(--color-text-700);
     background-color: inherit;
     margin: 0;
 }
