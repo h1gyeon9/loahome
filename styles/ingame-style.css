@@ -1,10 +1,13 @@
+html{
+    background: radial-gradient(var(--color-main-300), white);
+}
+
 main{
     display: flex;
     justify-content: center;
     align-items: center;
     text-align: center;
     margin: 10rem 0;
-    background: radial-gradient(blue white); /*이거왜안되냐고ㅗㅗㅗㅗㅗㅗㅗㅗㅗㅗ*/
 }
 
 #nickname{
@@ -14,7 +17,7 @@ main{
 }
 
 #server-name{
-    color: gray;
+    color: var(--color-main-600);
     font-size: 1rem;
     font-weight: 400;
     margin: 0;
