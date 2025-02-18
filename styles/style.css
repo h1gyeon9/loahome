@@ -100,9 +100,13 @@ header{
 
 /*푸터*/
 
-footer p{
+#copyright{
     text-align: center;
     font-size: 0.6875rem;
     color: gray;
     margin-top: 3rem;
+}
+
+#copyright a{
+    color: gray;
 }
