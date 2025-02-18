@@ -1,5 +1,5 @@
 html{
-    background: radial-gradient(var(--color-main-300), white);
+    background: radial-gradient(var(--color-main-300), var(--color-white-100));
 }
 
 main{
