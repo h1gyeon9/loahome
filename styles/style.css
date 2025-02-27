@@ -113,6 +113,10 @@ header{
 }
 
 @media (max-width: 575px) {
+    #navbar{
+        display: none;
+    }
+
     #copyright{
         font-size: 0.4rem;
     }
