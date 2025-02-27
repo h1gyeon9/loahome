@@ -111,3 +111,9 @@ header{
 #copyright a{
     color: gray;
 }
+
+@media (max-width: 575px) {
+    #copyright{
+        font-size: 0.4rem;
+    }
+}
